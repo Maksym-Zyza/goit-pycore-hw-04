@@ -18,5 +18,5 @@ def get_cats_info(path: str) -> list:
     return []
   return cats_list
 
-cats_info = get_cats_info("02/cats_file.txt")
+cats_info = get_cats_info("get_cats_info/cats_file.txt")
 print(cats_info)

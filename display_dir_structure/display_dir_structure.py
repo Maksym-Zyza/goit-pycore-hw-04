@@ -19,4 +19,4 @@ def display_dir_structure(path, level=0):
 
     return
 
-display_dir_structure(".venv")
+display_dir_structure("display_dir_structure")
